@@ -1,0 +1,7 @@
+Classification of SARS COVID-19 and Other Lung Infections from Chest X-Ray Scan Images with DenseNet-121
+uses DenseNet-121 ONNX model.
+
+Citation:
+==========
+https://github.com/onnx/models/blob/master/vision/classification/densenet-121/model/densenet-9.onnx
+Licensed under Apache License Version 2.0, January 2004 http://www.apache.org/licenses/

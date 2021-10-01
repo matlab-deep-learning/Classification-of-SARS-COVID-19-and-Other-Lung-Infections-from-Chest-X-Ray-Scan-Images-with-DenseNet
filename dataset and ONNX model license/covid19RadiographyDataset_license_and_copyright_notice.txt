@@ -1,0 +1,14 @@
+Modified 2-clause BSD license for COVID-19 Radiography Database
+
+Copyright © 2021, Muhammad E. H. Chowdhury and Mr. Tawsifur Rahman.
+
+[1] M. E. H. Chowdhury, T. Rahman, A. Khandakar, R. Mazhar, M. A. Kadir, Z. B. Mahbub, K. R. Islam, M. S. Khan, A. Iqbal, N. Al-Emadi, M. B. I. Reaz, and M. T. Islam, "Can AI help in screening Viral and COVID-19 pneumonia?," IEEE Access, Vol. 8, 2020, pp. 132665 - 132676, doi: 10.1109/ACCESS.2020.3010287.
+[2] T. Rahman, A. Khandakar, Y. Qiblawey, A. Tahir, S. Kiranyaz, S. B. A. Kashem, M. T. Islam, S. A. Maadeed, S. M. Zughaier, M. S. Khan, and M. E. Chowdhury, "Exploring the Effect of Image Enhancement Techniques on COVID-19 Detection using Chest X-ray Images," Computers in Biology and Medicine, Vol. 132, 2021, pp. 104319, doi: 10.1016/j.compbiomed.2021.104319
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1.	Redistribution in any form must retain the above copyright notice, this list of conditions and the following disclaimer.
+2.	Redistribution must include the following acknowledgment: The authors acknowledge the Muhammad E. H. Chowdhury and Mr. Tawsifur Rahman for providing the data that allowed the authors to receive the original dataset.
+
+THIS DATASET IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS DATASET, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
